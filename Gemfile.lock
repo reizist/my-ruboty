@@ -88,6 +88,7 @@ DEPENDENCIES
   ruboty-bundler
   ruboty-cron
   ruboty-delay
+  ruboty-github
   ruboty-google_image
   ruboty-redis
   ruboty-slack
