@@ -55,6 +55,8 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-nullpo (1.0.0)
+      ruboty
     ruboty-redis (0.0.6)
       redis
       redis-namespace
@@ -94,6 +96,7 @@ DEPENDENCIES
   ruboty-exec_command
   ruboty-github
   ruboty-google_image
+  ruboty-nullpo
   ruboty-redis
   ruboty-slack
   ruboty-syoboi_calendar
