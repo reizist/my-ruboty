@@ -19,9 +19,12 @@ GEM
     i18n (0.7.0)
     json (1.8.3)
     mem (0.1.5)
+    mini_portile2 (2.0.0)
     minitest (5.8.4)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
+    nokogiri (1.6.7.2)
+      mini_portile2 (~> 2.0.0.rc2)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     rake (11.1.2)
@@ -54,6 +57,9 @@ GEM
     ruboty-google_image (0.1.0)
       faraday
       faraday_middleware
+      ruboty
+    ruboty-hatena_hotentry (0.0.2)
+      nokogiri
       ruboty
     ruboty-lgtm (0.0.3)
       faraday
@@ -100,6 +106,7 @@ DEPENDENCIES
   ruboty-exec_command
   ruboty-github
   ruboty-google_image
+  ruboty-hatena_hotentry
   ruboty-lgtm
   ruboty-nullpo
   ruboty-redis
