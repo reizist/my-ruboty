@@ -55,6 +55,10 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-lgtm (0.0.3)
+      faraday
+      faraday_middleware
+      ruboty
     ruboty-nullpo (1.0.0)
       ruboty
     ruboty-redis (0.0.6)
@@ -96,6 +100,7 @@ DEPENDENCIES
   ruboty-exec_command
   ruboty-github
   ruboty-google_image
+  ruboty-lgtm
   ruboty-nullpo
   ruboty-redis
   ruboty-slack
