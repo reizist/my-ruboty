@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/mzp/ruboty-misawa.git
+  revision: 3a88529dbe1bb3c1bbd780d4c9a8ffd5b83bbcf8
+  specs:
+    ruboty-misawa (0.0.1)
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -100,6 +107,7 @@ DEPENDENCIES
   ruboty-github
   ruboty-google_image
   ruboty-kokodeikku
+  ruboty-misawa!
   ruboty-redis
   ruboty-slack
   ruboty-syoboi_calendar

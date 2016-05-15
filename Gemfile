@@ -11,3 +11,4 @@ gem "ruboty-delay"
 gem "ruboty-github"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-kokodeikku"
+gem 'ruboty-misawa', github: 'mzp/ruboty-misawa'
