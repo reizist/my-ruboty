@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-ruby "2.3.0"
 gem "rake"
 gem "ruboty-alias"
 gem "ruboty-google_image"
@@ -15,3 +14,4 @@ gem "ruboty-nullpo"
 gem "ruboty-lgtm"
 gem "ruboty-hatena_hotentry"
 gem "ruboty-train_delay"
+gem "ruboty-zoi"
